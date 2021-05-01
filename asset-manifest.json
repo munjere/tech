@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/tech/static/js/main.3863c302.chunk.js",
+    "main.js.map": "/tech/static/js/main.3863c302.chunk.js.map",
+    "runtime-main.js": "/tech/static/js/runtime-main.760a5265.js",
+    "runtime-main.js.map": "/tech/static/js/runtime-main.760a5265.js.map",
+    "static/js/2.f68ce19a.chunk.js": "/tech/static/js/2.f68ce19a.chunk.js",
+    "static/js/2.f68ce19a.chunk.js.map": "/tech/static/js/2.f68ce19a.chunk.js.map",
+    "index.html": "/tech/index.html",
+    "static/js/2.f68ce19a.chunk.js.LICENSE.txt": "/tech/static/js/2.f68ce19a.chunk.js.LICENSE.txt",
+    "static/media/about.05f035b3.gif": "/tech/static/media/about.05f035b3.gif",
+    "static/media/avatar.b7af587f.jpg": "/tech/static/media/avatar.b7af587f.jpg",
+    "static/media/blog1.7ecbb78c.svg": "/tech/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/tech/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/tech/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/tech/static/media/blog4.60aa6cec.svg",
+    "static/media/blog5.2599a6b1.svg": "/tech/static/media/blog5.2599a6b1.svg",
+    "static/media/design.8ecb3043.svg": "/tech/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/tech/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/tech/static/media/intelligence.11bd2ab2.svg",
+    "static/media/maya-1.f370e251.jpg": "/tech/static/media/maya-1.f370e251.jpg",
+    "static/media/maya-2.82b2a0f5.jpg": "/tech/static/media/maya-2.82b2a0f5.jpg",
+    "static/media/maya-3.8bd072e0.jpg": "/tech/static/media/maya-3.8bd072e0.jpg",
+    "static/media/maya-4.98e8029e.jpg": "/tech/static/media/maya-4.98e8029e.jpg",
+    "static/media/port1.65d6ecfd.jpg": "/tech/static/media/port1.65d6ecfd.jpg",
+    "static/media/port2.4aa0b2ba.jpg": "/tech/static/media/port2.4aa0b2ba.jpg",
+    "static/media/port3.7f41458f.jpg": "/tech/static/media/port3.7f41458f.jpg",
+    "static/media/port4.50a75831.jpg": "/tech/static/media/port4.50a75831.jpg",
+    "static/media/port5.1330f6cd.jpg": "/tech/static/media/port5.1330f6cd.jpg",
+    "static/media/port6.ccfe3b5b.jpg": "/tech/static/media/port6.ccfe3b5b.jpg",
+    "static/media/port7.411e7c51.jpg": "/tech/static/media/port7.411e7c51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.760a5265.js",
+    "static/js/2.f68ce19a.chunk.js",
+    "static/js/main.3863c302.chunk.js"
+  ]
+}
